@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-back-in-stock-and-price-alerts-dart-desktop",
+  "capabilityKey": "planned:ecommerce:back-in-stock-and-price-alerts",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_back_in_stock_and_price_alerts_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/back-in-stock-and-price-alerts.md",
+  "presentationPlan": "projects/ecommerce/features/back-in-stock-and-price-alerts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
